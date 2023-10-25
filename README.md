@@ -1,4 +1,4 @@
-# visual-argument
+# Creator Statement (Intro & Reflection)
 ### ENGCMP0610 Unit 2
 Jacob Emmerson
 
@@ -6,7 +6,9 @@ Jacob Emmerson
 
 ## About
 
-This project demonstrates elements of visual rhetoric such as juxtaposition and contrast. It is a commentary on the two-party politcal system in the United States which, although is not something enforced by law, is a byproduct of the current voting system and the capitalist-driven legislation. 
+This project demonstrates elements of visual rhetoric such as juxtaposition and contrast. It is a commentary on the two-party politcal system in the United States which, although is not something enforced by law, is a byproduct of the current voting system and the capitalist-driven legislation. To elaborate on what I mean by capitalist-driven legislation, I am referring to the inability for candidates to run independently of a party due to the financial burden that would fall upon them. Hence, we are stuck with politicans whose opinions are not always their own independtly of lobbyists. 
+
+This was created with a target audience of young adults and students who may not give much thought to the political system that they are unfortunately a part of. In an effort to make this visually attractive, I tried to maintain a coherent level of detail throughout whilst creating a somewhat dystopian atmosphere around the animals. For those who find it visually attractive an take a closer look, they will recognize a quote by John Adams: "There is nothing which I dread so much as a division of the republic into two great parties, each arranged under its leader, and concerting measures in opposition to each other". Though this quote is quite dated, there is a connection between it the way our two-party system currently functions. Rather than working together for the betterment of the people, our parties frequently use rhetoric that is in opposition of each other and undo the changes that each one makes (though I recognize one party seemingly wants to go against societal changes, so it may be critical for the other party to keep it in check). Additionally, I recognize, as a self-criticism, that this argument is a criticism that offers no solutions. Thus, there may have been a more efficient way to express this idea to young adults while provoking ideas of a need for change.
 
 ### Rhetoric and Tools Applied
 - Juxtaposition
